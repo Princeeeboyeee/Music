@@ -1,4 +1,4 @@
-var canvas = new fabric.Canvas('myCanvas');
+var canvas = new fabric.Canvas('canvas');
  var x= document.getElementById("myAudio");
 
 function new_image()
